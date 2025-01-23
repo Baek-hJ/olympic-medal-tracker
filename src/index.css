@@ -1,0 +1,18 @@
+/* index.css */
+#title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.main-center { 
+  background-color: beige;
+  display: flex; 
+  flex-direction: column; 
+  justify-content: center; 
+  align-items: center; 
+  width: 80%;
+  margin: 20px auto;
+/* 화면 비율 100% */
+  /* height: 100vh; */
+}
+
