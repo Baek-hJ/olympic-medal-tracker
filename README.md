@@ -1,8 +1,14 @@
-# React + Vite
+# React + Vite 개인과제_2 소개
+## 리액트 9기 프로젝트 주제: 올림픽 메달 트랙커 만들기
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+이 프로젝트로는 2024 파리 올림픽의 메달 집계를 관리하는 Olympic Medal Tracker입니다. 
 
-Currently, two official plugins are available:
+지금까지 배운 리액트 컴포넌트, 이벤트 관리, 상태(state) 관리를 통해 CRUD 기능을 구현하게 됩니다.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+*이번 프로젝트의 목표는
+
+- 리액트 컴포넌트와 훅(useState)을 다룰 수 있어요.
+- 리액트에서 이벤트를 관리할 수 있어요.
+- 리액트의 state, props 를 확실히 이해하고 사용할 수 있어요.
+- 이를 통해 기초 프로그래밍의 핵심이 되는 CRUD를 리액트에 적용해 볼 수 있어요.
